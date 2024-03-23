@@ -43,6 +43,7 @@ Cristian Dulcey
 
 Connect with us on our social media platforms:
 
+* [https://cristdulcey.com](https://cristdulcey.com)
 * [Twitter](https://twitter.com/cristdulcey)
 * [LinkedIn](https://www.linkedin.com/in/cristdulcey/)
 * [GitHub](https://github.com/cristdulcey)
