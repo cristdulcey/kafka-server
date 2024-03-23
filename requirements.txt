@@ -1,0 +1,4 @@
+aiokafka==0.7.2
+kafka-python==2.0.2
+pykafka==2.8.0
+setuptools==69.2.0
